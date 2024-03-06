@@ -1,0 +1,10 @@
+name: IslandChunks
+version: 0.1-alpha
+main: de.mrg4ming.Main
+
+load: STARTUP
+
+api-version: 1.19
+
+author: MrG4ming
+description: An island world generator plugin.
